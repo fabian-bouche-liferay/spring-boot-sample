@@ -1,0 +1,5 @@
+security:
+  oauth2:
+    resourceserver:
+      jwk:
+        jwk-set-uri: http://localhost:8080/o/oauth2/jwks
